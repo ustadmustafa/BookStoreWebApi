@@ -34,3 +34,6 @@ C:\Users\musta\OneDrive\Masaüstü\dotnetpratikler\BookStore\WebApi\obj\Debug\ne
 C:\Users\musta\OneDrive\Masaüstü\dotnetpratikler\BookStore\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\musta\OneDrive\Masaüstü\dotnetpratikler\BookStore\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\musta\OneDrive\Masaüstü\dotnetpratikler\BookStore\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetpratikler\BookStore\WebApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetpratikler\BookStore\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetpratikler\BookStore\WebApi\bin\Debug\net7.0\FluentValidation.dll
