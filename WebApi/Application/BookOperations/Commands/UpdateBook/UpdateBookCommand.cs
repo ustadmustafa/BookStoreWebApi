@@ -1,4 +1,5 @@
 using WebApi.DBOperations;
+using WebApi.Entities;
 
 namespace WebApi.BookOperations.UpdateBook
 {
@@ -32,6 +33,8 @@ namespace WebApi.BookOperations.UpdateBook
             {
                 throw new NotImplementedException();
             }
+
+            
         }
     }
 }

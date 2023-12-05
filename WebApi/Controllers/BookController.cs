@@ -14,10 +14,11 @@ using static WebApi.BookOperations.CreateBook.CreateBookCommand;
 using FluentValidation.Results;
 using FluentValidation;
 using Webapi.BookOperations.UpdateBook;
+using WebApi.Entities;
 
 
 
-namespace WebApi.AddControllers{
+namespace WebApi.Controllers{
     [ApiController]
     [Route("[controller]s")]
     public class BookController : ControllerBase

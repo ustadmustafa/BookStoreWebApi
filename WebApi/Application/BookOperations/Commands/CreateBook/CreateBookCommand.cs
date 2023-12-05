@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using WebApi;
 using WebApi.Common;
 using WebApi.DBOperations;
+using WebApi.Entities;
 
 namespace WebApi.BookOperations.CreateBook
 {
